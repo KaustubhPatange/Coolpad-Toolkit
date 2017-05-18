@@ -1,0 +1,9 @@
+su
+echo 'boot-recovery ' > /cache/recovery/command
+echo '--update_package=/sdcard/xposed-v86-sdk22-arm64.zip' >> /cache/recovery/command
+reboot recovery
+exit
+exit
+exit
+
+
