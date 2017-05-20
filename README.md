@@ -1,9 +1,10 @@
 # Coolpad-Toolkit
 The Official Coolpad Toolkit for Most of the Coolpad Devices
 
-*Please install the ToolKit to the root folder on your PC if possible. 
-
-For example C:\Coolpad_Toolkit or D:\Coolpad_Toolkit
+# Some Instructions :
+1. To Use This Tool from this source you need to Compile it into exe and then use it otherwise some call script will not function well insense script calling classes would not work.
+2. For Newbies to download source click on the Clone or Download button and then Download as ZIP, in android make sure you switch to desktop version to do the same process.
+3. Please install the ToolKit to the root folder on your PC if possible. For example C:\Coolpad_Toolkit or D:\Coolpad_Toolkit
 
 If you install it to a folder with brackets or special characters in the filename such 
 as C:\Program Files (x86)\ then it may cause certain processes in the ToolKit to fail.
