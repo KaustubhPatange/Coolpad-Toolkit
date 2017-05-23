@@ -1,6 +1,10 @@
 # Coolpad-Toolkit
 The Official Coolpad Toolkit for Most of the Coolpad Devices
 
+Original Post : http://developerkp.capstricks.net/index.php/2017/05/20/crt/
+
+Xda Post: https://forum.xda-developers.com/android/software/utility-coolpad-toolkit-t3609653
+
 # Some Instructions :
 1. To Use This Tool from this source you need to Compile it into exe and then use it otherwise some call script will not function well insense script calling classes would not work.
 2. For Newbies to download source click on the Clone or Download button and then Download as ZIP, in android make sure you switch to desktop version to do the same process.
