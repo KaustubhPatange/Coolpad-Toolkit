@@ -1,7 +1,7 @@
 # Coolpad-Toolkit
 The Official Coolpad Toolkit for Most of the Coolpad Devices
 
-Original Post : http://developerkp.capstricks.net/index.php/2017/05/20/crt/
+Original Post : https://kpstvhub.com/blog/2017/05/20/crt/
 
 Xda Post: https://forum.xda-developers.com/android/software/utility-coolpad-toolkit-t3609653
 
